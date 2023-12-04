@@ -1,9 +1,7 @@
 # Lab-Extending
 
 
-Creating a comprehensive `README.md` for your Flutter app is essential for documentation, especially if the project is to be shared or collaborated on. Below is a template for your app's README, describing its features and functionalities:
 
----
 
 # Grades App
 
